@@ -11,6 +11,8 @@ public class StudentProviderApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(StudentProviderApplication.class, args);
 		
+		System.out.println("local");
+		
 		
 	}
 
