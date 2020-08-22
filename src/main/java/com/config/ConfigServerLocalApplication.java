@@ -14,6 +14,14 @@ public class ConfigServerLocalApplication {
         System.out.println("hello dev-ankit-dev");
         System.out.println("hello dev-ashutosh tiwari-dev");
         System.out.println("hello");
+        
+        System.out.println("hello dev-ankit-dev");
+        System.out.println("hello dev-ashutosh tiwari-dev");
+        System.out.println("hello");
+        
+        System.out.println("hello dev-ankit-dev");
+        System.out.println("hello dev-ashutosh tiwari-dev");
+        System.out.println("hello");
 	
 		
 	
