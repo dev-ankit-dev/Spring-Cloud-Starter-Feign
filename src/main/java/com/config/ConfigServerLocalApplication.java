@@ -11,7 +11,15 @@ public class ConfigServerLocalApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ConfigServerLocalApplication.class, args);
 		
-		System.out.println("This service is used for  enable config server");
+        System.out.println("hello dev-ankit-dev");
+        System.out.println("hello dev-ashutosh tiwari-dev");
+        System.out.println("hello");
+        
+        System.out.println("hello dev-ankit-dev");
+        System.out.println("hello dev-ashutosh tiwari-dev");
+        System.out.println("Hello");
+
+	
 		
 	
 	}
